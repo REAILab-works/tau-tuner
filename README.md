@@ -1,2 +1,5 @@
-# tau-tuner
-The τ Tuner: tune a tank you cannot see. A small broser game about forecasting underground gas storage (N / 中文)
+# The τ Tuner · τ 调音师
+
+Tune a tank you cannot see. A small browser game about forecasting underground gas storage (EN / 中文).
+
+Play: https://reailab-works.github.io/tau-tuner/
